@@ -133,10 +133,10 @@ Below are sample plots that will appear in your GitHub README once generated. Th
 ![Problem 1 Revenue vs Flow](output/problem1/revenue_vs_flow.png)
 
 ### 📈 Problem 2 — Coverage vs Budget k
-![Problem 2 Coverage vs Budget](output/problem2/influencer_coverage_vs_k.png')
+![Problem 2 Coverage vs Budget](output/problem2/influencer_coverage_vs_k.png)
 
 ### ⏱ Problem 2 — Runtime vs Number of Users
-![Problem 2 Runtime vs Users](output/problem2/influencer_runtime_vs_n.png')
+![Problem 2 Runtime vs Users](output/problem2/influencer_runtime_vs_n.png)
 
 ---
 
