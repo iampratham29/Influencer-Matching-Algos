@@ -33,11 +33,11 @@ Thumbs.db
 # -----------------------------
 # Output folders (generated)
 # -----------------------------
-output/problem1/*.png
+# output/problem1/*.png
 output/problem1/*.csv
 output/problem1/*.json
 
-output/problem2/*.png
+# output/problem2/*.png
 output/problem2/*.csv
 output/problem2/*.json
 
