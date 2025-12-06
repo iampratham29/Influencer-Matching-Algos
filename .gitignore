@@ -1,0 +1,61 @@
+# -----------------------------
+# Python cache / bytecode files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -----------------------------
+# Virtual environment
+# -----------------------------
+venv/
+.env/
+env/
+.venv/
+
+# -----------------------------
+# OS-specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# VS Code settings
+# -----------------------------
+.vscode/
+
+# -----------------------------
+# Jupyter notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Output folders (generated)
+# -----------------------------
+output/problem1/*.png
+output/problem1/*.csv
+output/problem1/*.json
+
+output/problem2/*.png
+output/problem2/*.csv
+output/problem2/*.json
+
+# -----------------------------
+# Temporary or test files
+# -----------------------------
+tmp_*.json
+*.tmp
+*.log
+
+# -----------------------------
+# Distribution / packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# PyInstaller artifacts
+# -----------------------------
+*.spec
